@@ -33,7 +33,7 @@
     <div>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
         <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white">
-        <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React-Query&logoColor=white">
+<!--         <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React-Query&logoColor=white"> -->
     </div>
     <!-- Style -->
     <p><strong>Style</strong></p>
